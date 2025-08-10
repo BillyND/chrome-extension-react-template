@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(yarn install)",
+      "Bash(rm:*)",
+      "Bash(npx tailwindcss init:*)",
+      "Bash(yarn add:*)",
+      "Bash(yarn dev)",
+      "Bash(yarn build)"
+    ],
+    "deny": []
+  }
+}
