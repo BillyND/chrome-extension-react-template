@@ -64,3 +64,4 @@ Your React app should now be loaded as a Chrome extension!
 ## License
 
 This project is licensed under the MIT License.# Sync-jira-work
+# Sync-jira-work
